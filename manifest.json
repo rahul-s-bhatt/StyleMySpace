@@ -1,0 +1,25 @@
+{
+  "name": "StyleMySpace",
+  "short_name": "SMS",
+  "start_url": "index.php",
+  "orientation": "landscape",
+  "background_color": "white",
+  "display": "standalone",
+  "theme_color": "white",
+  "description": "Beauitful interior design for your home just one call away!",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "540x540",
+    "type": "image/png"
+  }],
+  "companyHead": [{
+    "name": "Rahul Bhatt",
+    "position": "M.Arch./CEO"
+  }, {
+    "name": "Sapana Babar",
+    "position": "QA Director"
+  }, {
+    "name": "Noorsaba Khan",
+    "position": "Head of Marketing"
+  }]
+}
